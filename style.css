@@ -96,12 +96,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 80px;
+  padding-top: 50px;
   padding-bottom: 80px;
 }
 
 #qs-banner h2{
-  margin: 25px;
+  margin: 20px;
 }
 
 .qs-parragraph {
@@ -113,11 +113,19 @@
 .ss-banner{
   color: #585858;
   background-color: #a7a7a7;
+  padding-bottom: 40px;
+}
+
+.ss-banner h1 {
+  font-size: 2rem;
+  padding-top: 40px;
+  padding-bottom:20px;
+  height: 80px;
 }
 
 .ss-banner h2 {
-  font-size: 20px;
-  padding-top: 0px;
+  font-size: 25px;
+  padding-top: 20px;
   height: 80px;
 }
 
@@ -125,10 +133,11 @@
   margin-top: 35px;
 }
 
+
 .ss-parragraph {
   text-align: justify;
   font-size: 17px;
-  padding-top: 30px;
+  padding-top: 40px;
 
 }
 
@@ -142,6 +151,7 @@
 
 #cl-banner h2 {
   padding-bottom: 30px;
+  color: #585858;
 }
 
 #cl-banner img {
