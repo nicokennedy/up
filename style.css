@@ -2,7 +2,7 @@
 .navbar-wagon {
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.07),0 1px 0 0 rgba(0,0,0,0.03);
   transition: all 0.3s ease;
-  height: 70px;
+  height: 60px;
   padding: 0px 30px;
   background: #a7a7a7;
   display: flex;
@@ -15,8 +15,8 @@
 }
 /* Logo */
 .navbar-wagon-brand img {
-  height: 50px;
-  width: 50px;
+  height: 150px;
+  width: 150px;
   margin-left: 50px;
 }
 /* User Avatar */
@@ -113,7 +113,8 @@
 .ss-banner{
   color: #585858;
   background-color: #a7a7a7;
-  padding-bottom: 40px;
+  padding-top: 40px;
+  padding-bottom: 60px;
 }
 
 .ss-banner h1 {
@@ -121,6 +122,7 @@
   padding-top: 40px;
   padding-bottom:20px;
   height: 80px;
+  margin: 20px;
 }
 
 .ss-banner h2 {
@@ -145,8 +147,8 @@
 /* PARTNERS */
 #cl-banner {
   background-color: white;
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 #cl-banner h2 {
@@ -155,7 +157,7 @@
 }
 
 #cl-banner img {
-  width: 70%;
+  width: 60%;
 }
 
 
@@ -175,6 +177,11 @@
   color: #585858;
   font-size: 25px;
   font-size: 1rem;
+}
+
+#contacto img {
+  padding-top: 30px;
+  width: 40%;
 }
 
 #contacto a:hover {
